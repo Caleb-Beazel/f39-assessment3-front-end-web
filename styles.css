@@ -48,5 +48,9 @@ img {
 	margin: 5px;
 	font-size: 11pt;
 	font-weight: bold;
+	cursor: pointer;
 	
+}
+#submit{
+	cursor: pointer;
 }
